@@ -3,10 +3,10 @@
 #include <string.h>
 
 /**
- *  * main - Entry point
- *   * Description 'A C program that prints the size of cha, int,...'
- *    *Return: Always 0 (success)
- */
+*  *main - Entry point
+*   *Description 'A C program that prints the size of cha, int,...'
+*    *Return: Always 0 (success)
+*/
 
 int main(void)
 
@@ -30,7 +30,7 @@ int main(void)
 
 									printf("Size of a long int: %d byte(s)\n", sizeof(long int));
 
-										printf("Size of a long long int: %d byte(s)\n", sizeof(long long int));
+										printf("Size of a long int: %d byte(s)\n", sizeof(long int));
 
 											printf("Size of a float: %d byte(s)\n", sizeof(float));
 
